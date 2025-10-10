@@ -1,0 +1,121 @@
+/* Main Style */
+
+body {
+  font-family: 'Open Sans', arial, sans-serif;
+    font-size: 1em;
+    color: #444;
+    font-weight: 400;
+
+}
+
+
+
+
+#container {
+  width: 100%;
+  max-width:1200px ;
+  margin: 0 auto;
+}
+
+/* Banner Name at Top */
+ #name {
+font-size: 3em;
+text-transform: uppercase;
+text-align: center;
+color: #33485e ;
+border-bottom: 1px solid #33485e ;
+width: 60%;
+min-width:300px;
+margin: 0 auto;
+}
+
+/* Color for Text*/
+strong {
+    color: #33485e;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+/* Style Color for sectionheader */
+.sectionheader {
+    font-size: 1.5 em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    color: #fff;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 0;
+    margin-left: 0;
+    width: 70%;
+    min-width: 300px;
+}
+
+/* Job Titles */
+.title {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+/* Job Organization */
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+  
+}  
+
+/* Job Dates */
+.date {
+  font-weight: 400;
+  font-style: italic; 
+  font-size: 1 em;
+  font-family: 'Open Sans', arial, sans-serif;
+  margin-top: 2px;
+  margin-bottom: 0 auto;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+
+/* Contact Info, Skills, Education Lists */
+.menu {
+
+
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+} 
+
+.menu li {
+  display: inline;
+}
+
+/* Education List */
+#degrees {
+  margin: 5px 0 0 0;
+  font-size: 1em;
+  font-style: normal;
+}
+
+/*Skills List */
+#do {
+  margin: 5px 0 0 0;
+  font-style: normal;
+}
+
+/* Title */
+#titlenew
+{
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #33485e;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto 30px auto;
+}
+
